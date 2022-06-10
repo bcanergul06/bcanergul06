@@ -1,4 +1,4 @@
-Hi 👋 My name is B. Can Ergül
+Hi 👋 My name is Bahri Can Ergül
 =============================
 
 Frontend Developer • UI Designer
