@@ -4,7 +4,7 @@ Hi 👋 My name is Bahri Can Ergül
 Frontend Developer • UI Designer
 --------------------------------
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Turkiye
 * 🖥️  See my portfolio at [Linkedln](http://linkedin.com/in/bcanergul)
 * ✉️  You can contact me at [bcanergul@gmail.com](mailto:bcanergul@gmail.com)
 * 🚀  I'm currently working on [Decentra Network](http://decentranetwork.org)
