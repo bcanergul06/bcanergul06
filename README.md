@@ -1,14 +1,14 @@
 Hi 👋 My name is Bahri Can Ergül
 =============================
 
-Frontend Developer • UI Designer
+Software Developer • UI Designer
 --------------------------------
 
 * 🌍  I'm based in Turkiye
 * 🖥️  See my portfolio at [Linkedln](http://linkedin.com/in/bcanergul)
 * ✉️  You can contact me at [bcanergul@gmail.com](mailto:bcanergul@gmail.com)
 * 🚀  I'm currently working on [Naruno](http://naruno.org)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Javascript, .Net, MySQL etc.
 * 🤝  I'm open to collaborating on open-source project
 * ⚡  cycle lover.
 
