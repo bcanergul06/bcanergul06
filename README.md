@@ -8,7 +8,7 @@ Software Developer • UI Designer
 * 🖥️  See my portfolio at [Linkedln](http://linkedin.com/in/bcanergul)
 * ✉️  You can contact me at [bcanergul@gmail.com](mailto:bcanergul@gmail.com)
 * 🚀  I'm currently working on [Naruno](http://naruno.org)
-* 🧠  I'm learning Javascript, .Net, MySQL etc.
+* 🧠  I'm learning Backend Systems
 * 🤝  I'm open to collaborating on open-source project
 * ⚡  cycle lover.
 
