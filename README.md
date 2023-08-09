@@ -1,7 +1,7 @@
 Hi 👋 My name is Bahri Can Ergül
 =============================
 
-Software Developer • UI Designer
+Software Developer
 --------------------------------
 
 * 🌍  I'm based in Turkiye
