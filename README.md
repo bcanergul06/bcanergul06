@@ -1,13 +1,13 @@
 Hi 👋 My name is Bahri Can Ergül
 =============================
 
-Software Developer
+Software Development & Finance & Researcher
 --------------------------------
 
 * 🌍  I'm based in Turkiye
 * 🖥️  See my portfolio at [Linkedln](http://linkedin.com/in/bcanergul)
 * ✉️  You can contact me at [bcanergul@gmail.com](mailto:bcanergul@gmail.com)
-* 🚀  I'm currently working on [Naruno](http://naruno.org)
+* 🚀  I'm currently working on Freelance projects. prev. @ Koc University
 * 🧠  I'm learning Backend Systems and Data Science
 * 🤝  I'm open to collaborating on open-source project
 * ⚡  cycle lover.
